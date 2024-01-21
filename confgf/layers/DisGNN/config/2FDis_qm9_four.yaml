@@ -1,0 +1,18 @@
+# training config
+global_config:
+    seed: 1234
+    
+
+# model_config
+model_config:
+    rbf: nexpnorm
+    max_z: 20
+    rbf_trainable: false
+    rbound_upper: 10
+    z_hidden_dim: 128
+    ef_dim: 36
+    k_tuple_dim: 128
+    block_num: 2
+    activation_fn_name: ssp
+    interaction_residual: false
+    use_mult_lin: false
