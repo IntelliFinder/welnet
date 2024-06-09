@@ -2,6 +2,8 @@
 
 Official working code of "Weisfeiler Leman for Euclidean Equivariant Machine Learning" ICML 2024 
 
+Paper page at ICML 2024 : https://icml.cc/virtual/2024/poster/34751
+
 Link to paper : https://arxiv.org/abs/2402.02484
 
 Please see each directory for working instructions.
